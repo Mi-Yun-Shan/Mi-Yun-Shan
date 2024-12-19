@@ -16,4 +16,4 @@
 
 [![roadmap.sh](https://roadmap.sh/card/wide/66d701c4553501e3c3ec0e8a?variant=dark&roadmaps=cyber-security%2Cpython%2Ccpp%2Ccomputer-science)](https://roadmap.sh)
 
-Dont forget to check me out on likedin in my bio!
+Dont forget to check me out on linkedIn in my bio!
