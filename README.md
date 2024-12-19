@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on becoming a well rounded computer scientist and person in general
 - 🌱 I’m currently learning: cyber security, python, c++, and Mandarin!
-- 👯 I’m looking to collaborate on programming projects and speken language learning
+- 👯 I’m looking to collaborate on programming projects and spoken language learning
 - 🤔 I’m looking for help with cyber security experience
 - 💬 Ask me about languages (programming or spoken!)
 - 📫 How to reach me: LinkedIn DMs
