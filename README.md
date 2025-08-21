@@ -2,15 +2,9 @@
 
 # Brief intro:
 
-- 🔭 I’m currently working on becoming a well rounded computer scientist and person in general
-- 🌱 I’m currently learning: cyber security, python, c++, and Mandarin!
-- 👯 I’m looking to collaborate on programming projects and spoken language learning
-- 🤔 I’m looking for help with cyber security experience
-- 💬 Ask me about languages (programming or spoken!)
-- 📫 How to reach me: LinkedIn DMs
-- ⚡ Fun fact: despite being a computer scientist, I won best pitch for the Student Managed Fund this year for my research on investment viabilities (you could say I'm multidiciplined)
-
----
+- Super interested in building AI systems
+- Cyber Security nerd
+- Please teach me something new
 
 # Check out my roadmap.sh progress! 
 
